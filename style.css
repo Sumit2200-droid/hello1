@@ -1,0 +1,32 @@
+.img-fluid {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.pdf-viewer {
+    width: 100%;
+    height: 500px;
+}
+
+.position-relative {
+    position: relative;
+}
+
+.overflow-hidden {
+    overflow: hidden;
+}
+
+.course-item {
+    background-color: #f8f9fa; /* Light background color */
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.col-lg-6, .col-md-6 {
+    padding: 10px;
+}
+
+
